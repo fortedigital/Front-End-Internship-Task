@@ -6,12 +6,12 @@ const InternList = () => {
     const [interns, setInterns] = useState([]);
 
     useEffect(() => {
-        const fetchUsers = async () => {
+        const fetchInterns = async () => {
             const response = await fetch('http://localhost:3001/interns');
             const interns = await response.json();
             setInterns(interns);
         }
-        fetchUsers();
+        fetchInterns();
     }, []);
 
     return (

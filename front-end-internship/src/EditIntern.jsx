@@ -6,8 +6,8 @@ const EditIntern = () => {
     const { id } = useParams();
 
     useEffect(() => {
-        //TODO: get user from REST api from http://localhost:3001/interns/:id
-        console.log(`I want to get user with id: ${id}!`)
+        //TODO: get intern from REST api http://localhost:3001/interns/:id
+        console.log(`I want to get intern with id: ${id}!`)
     }, [id]);
 
     return (

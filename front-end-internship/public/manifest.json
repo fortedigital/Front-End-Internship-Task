@@ -1,6 +1,6 @@
 {
-    "short_name": "User List",
-    "name": "User List",
+    "short_name": "Interns list",
+    "name": "Interns list",
     "start_url": ".",
     "display": "standalone",
     "theme_color": "#000000",
