@@ -1,6 +1,6 @@
 # Front-End-Internship-Task
 
-This is a front end task for your internship in Forte Digital. This repo is created based on create react app. It consist of list of interns. Is has two pages:
+This is a front end task for your internship in Forte Digital. This repo is created based on create react app. It consists of list of interns. It has two pages:
 1. List of interns
 1. Edit intern page
 
