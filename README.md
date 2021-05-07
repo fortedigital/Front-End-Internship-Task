@@ -13,6 +13,10 @@ API is implemented using json-server. It's configured to serve content from db.j
 ​
 The rest of the instructions can be found in README in the `front-end-internship` folder.
 
+## Remark
+
+We do not expect that you will implement all of the features on your own. You are free to install external libraries. Also, try not to over-engineer this task.
+
 ## Task One - validation of intern editing
 ​
 You need to work on the intern edit page.
