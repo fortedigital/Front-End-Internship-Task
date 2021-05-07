@@ -8,7 +8,7 @@ To check your skills, if it comes to front end technologies, please complete two
 
 In order to run development environment please install node: https://nodejs.org/en/download/ and yarn: https://classic.yarnpkg.com/en/docs/install/. 
 
-Rest of instruction can be found in README in front-end-internship folder. 
+The rest of instructions can be found in README in front-end-internship folder. 
 
 ## Task One - validation of intern edition
 
