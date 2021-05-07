@@ -4,11 +4,14 @@ This is a front end task for your internship in Forte Digital. This repo is crea
 1. List of interns
 1. Edit intern page
 
+API is implemented using json-server. It's configure to serve content from db.json file. For details of json-server please go to https://github.com/typicode/json-server.   
+
 To check your skills, if it comes to front end technologies, please complete two tasks and send a link to your fork of github repository. 
 
 In order to run development environment please install node: https://nodejs.org/en/download/ and yarn: https://classic.yarnpkg.com/en/docs/install/. 
 
 The rest of instructions can be found in README in front-end-internship folder. 
+
 
 ## Task One - validation of intern edition
 
