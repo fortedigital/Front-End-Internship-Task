@@ -1,6 +1,6 @@
 # Front-End-Internship-Task
 
-This is a Front-end task for your internship at **Forte Digital**. This repo is created based on the `create-react-app`. It consists of a list of interns. It has two pages:
+This is a Front-end task used in the recruitment process at **Forte Digital**. This repo is created based on the `create-react-app`. It consists of a list of interns. It has two pages:
 ​
 
 1. Intern List page
@@ -23,22 +23,19 @@ We do not expect that you will implement all of the features on your own. You ar
 
 ## Task One - validation of intern editing
 
-​
 You need to work on the `Edit Intern` page.
-​
 
 - Load details of an intern from API (http://localhost:3001/interns/:id) and display it in the form
 - Add Missing fields: `internshipStart`, `internshipEnd` allowing to edit dates
 - Make all fields required (name, email, internshipStart, internshipEnd)
 - Validate if the email is correct
-- Validate if `internshipEnd` after `internshipStart`
+- Validate if `internshipEnd` date is after `internshipStart` date
 - Update intern data in `db.json` on form submit using API endpoint (PUT http://localhost:3001/interns/:id)
   ​
 
 ## Task Two - Page styling and semantic HTML
 
-​
-You need to work on both `Intern List` page and `Edit Intern` page.
+​You need to work on both `Intern List` page and `Edit Intern` page.
 
 - Change the HTML markup to the more semantic one.
 - Style both pages according to the design:
