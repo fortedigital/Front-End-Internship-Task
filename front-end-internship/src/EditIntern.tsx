@@ -17,7 +17,7 @@ export const EditIntern: React.FC = () => {
             <input type="text" name="name" />              
             <label>Email</label>
             <input type="text" name="email" />
-            
+
             <input type="submit" value="Submit" />
         </form>
     </div>
