@@ -4,6 +4,7 @@ import { NavLink } from "react-router-dom";
 interface Intern {
   id: number;
   name: string;
+  // ...
 }
 
 export const InternList: React.FC = () => {
