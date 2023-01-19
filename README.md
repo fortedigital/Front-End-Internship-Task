@@ -48,4 +48,4 @@ You should create new page for adding a new intern.
 - Change the HTML markup to the more semantic one.
 - Style both pages according to the design:
   https://www.figma.com/file/DNF5oDSn7NTO4Ls1kVkK1K/Task?node-id=1%3A2
-- Remember about accessibility
+- Remember about accessibility and RWD
